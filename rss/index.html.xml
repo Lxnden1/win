@@ -3,7 +3,7 @@
   <channel>
     <atom:link href="http://www.windows93.net/rss/" rel="self" type="application/rss+xml"/>
     <title>windows93</title>
-    <link>http://www.windows93.net/</link>
+    <link>win93.tk/</link>
     <description>hug + hack = infinity</description>
     <language>en-us</language>
     <ttl>1</ttl>
@@ -14,13 +14,13 @@
     <image>
       <url>http://www.windows93.net/logo_small.png</url>
       <title>windows93</title>
-      <link>http://www.windows93.net/</link>
+      <link>win93.tk/</link>
       <width>104</width>
       <height>85</height>
     </image>
     <item>
       <title>Opening</title>
-      <link>http://www.windows93.net/</link>
+      <link>win93.tk</link>
       <pubDate>Fri, 24 Oct 2014 19:00:00 GMT</pubDate>
       <description>
 <![CDATA[
@@ -50,7 +50,7 @@ CodeMirror, the code editor has been updated to version 4.7.1 (<a href="http://c
     </item>
     <item>
       <title>Corglitch</title>
-      <link>http://www.windows93.net/</link>
+      <link>win93.tk</link>
       <pubDate>Thu, 30 Oct 2014 12:02:09 GMT</pubDate>
       <description>
 <![CDATA[
@@ -60,7 +60,7 @@ A new application, Corglitch was successfully installed on your system.
     </item>
     <item>
       <title>Halloween theme</title>
-      <link>http://www.windows93.net/</link>
+      <link>win93.tk</link>
       <pubDate>Fri, 31 Oct 2014 07:08:25 GMT</pubDate>
       <description>
 <![CDATA[
@@ -70,7 +70,7 @@ Just for today, windows93 is spooky, yep just for today...
     </item>
   <item>
       <title>Achievement unlocked</title>
-      <link>http://www.windows93.net/</link>
+      <link>win93.tk/</link>
       <pubDate>Sat, 01 Nov 2014 10:41:55 GMT</pubDate>
       <description>
 <![CDATA[
@@ -80,7 +80,7 @@ Just for today, windows93 is spooky, yep just for today...
     </item>
      <item>
         <title>Great day for nerds</title>
-        <link>http://www.windows93.net/</link>
+        <link>win93.tk/</link>
         <pubDate>Mon, 08 Dec 2014 20:50:56 GMT</pubDate>
         <description>
 <![CDATA[
@@ -91,7 +91,7 @@ Just for today, windows93 is spooky, yep just for today...
 
     <item>
         <title>Xmas mode engaged</title>
-        <link>http://www.windows93.net/</link>
+        <link>win93.tk</link>
         <pubDate>Mon, 22 Dec 2014 15:05:26 GMT</pubDate>
         <description>
 <![CDATA[
@@ -102,7 +102,7 @@ Just for today, windows93 is spooky, yep just for today...
 
     <item>
         <title>1993 is forever</title>
-        <link>http://www.windows93.net/</link>
+        <link>win93.tk</link>
         <pubDate>Fri, 02 Jan 2015 20:27:12 GMT</pubDate>
         <description>
 <![CDATA[
@@ -113,7 +113,7 @@ Just for today, windows93 is spooky, yep just for today...
 
     <item>
         <title>Totally not done!</title>
-        <link>http://www.windows93.net/</link>
+        <link>win93.tk</link>
         <pubDate>Sun, 08 Mar 2015 17:03:42 GMT</pubDate>
         <description>
 <![CDATA[
@@ -122,7 +122,7 @@ While checking the network registry hug index processing, windows93 spotted an e
 </description>
       </item><item>
         <title>KEEP CALM AND PREPARE FOR VERSION 2.0</title>
-        <link>http://www.windows93.net/</link>
+        <link>win93.tk/</link>
         <pubDate>Sat, 06 Jun 2015 12:12:37 GMT</pubDate>
         <description>
 <![CDATA[
@@ -182,7 +182,7 @@ TO CELEBRATE THIS HERE'S AN ANTHOLOGY OF WHAT YOU PEOPLE MADED WITH WINDOW93 SIN
 </description>
       </item><item>
         <title>WELCOME TO WINDOWS93 SP2!</title>
-        <link>http://www.windows93.net/</link>
+        <link>win93.tk</link>
         <pubDate>Sat, 10 Jun 2017 17:00:05 GMT</pubDate>
         <description>
 <![CDATA[
@@ -202,7 +202,7 @@ Teh new album of Jankenpopp is out now!!
 </description>
 </item><item>
         <title>WELCOME TO WINDOWS93 SP3!</title>
-        <link>http://www.windows93.net</link>
+        <link>win93.tk</link>
         <pubDate>Sun, 01 Apr 2019 11:11:11 GMT</pubDate>
         <description>
 <![CDATA[
@@ -213,7 +213,7 @@ Teh new album of Jankenpopp is out now!!
 
 <item>
 <title>X-MAS MODE ENGAGED</title>
-<link>http://www.windows93.net/</link>
+<link>win93.tk</link>
 <pubDate>Sat, Dec 06 2019 13:13:13 GMT</pubDate>
 <description>
 <![CDATA[
